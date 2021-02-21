@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoneyCheck</string>
+    <string name="enter_number">Please enter your Country Code \n and Phone number for verification</string>
+    <string name="otp_verification">We have sent OTP for\nphone number verification</string>
+</resources>

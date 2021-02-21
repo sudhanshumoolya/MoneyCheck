@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "90116017728",
+    "firebase_url": "https://moneycheck-8843f.firebaseio.com",
+    "project_id": "moneycheck-8843f",
+    "storage_bucket": "moneycheck-8843f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90116017728:android:e4218358a0da50d9ae59a5",
+        "android_client_info": {
+          "package_name": "com.example.moneycheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90116017728-3cctcn6j3ib0e4ugre6vnqducl48i9eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneycheck",
+            "certificate_hash": "7b4360ad5e9b9d0ce0d8b913a1a63291725d66bd"
+          }
+        },
+        {
+          "client_id": "90116017728-vh3uqd3pfp5mvsslc4r79n1kltrpnuma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVPpiw600nTfYfzx2Zh-im2LNQMY2OVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90116017728-vh3uqd3pfp5mvsslc4r79n1kltrpnuma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
